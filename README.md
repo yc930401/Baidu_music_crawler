@@ -21,6 +21,8 @@ The programme arguments are as follow: </br>
 ## Result
 
 Music info and comments are stored in sqlite database. Songs are stored in a folder.
+![music](/music_info.png)
+![music](/download.png)
 
 ## Reference
 http://www.discoversdk.com/blog/web-scraping-with-selenium
